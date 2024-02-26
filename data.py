@@ -1,6 +1,9 @@
 # version 1: 9.57
 # with average steps needed for convergence: 459
-# web2 word set
+# web2 word set 234450 words (larger)
+# version 2: 8.98
+# with average steps needed for convergence: 437
+# gcide word set 114769 words (smaller)
 import re
 file = open("data.txt", "r")
 numberslist = []
