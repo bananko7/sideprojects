@@ -1,3 +1,8 @@
+'''
+Pyesight is a GUI tool to keep your eyes healthy by reminding you to take a break from the screen every 20 minutes.
+
+'''
+
 import tkinter as tk
 from tkinter import simpledialog
 import winsound
